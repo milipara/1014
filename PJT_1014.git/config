@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/caretim/PJT_1014.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/milipara/1014.git
